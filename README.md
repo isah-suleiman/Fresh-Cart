@@ -50,4 +50,7 @@ The following power BI features were incorporated
 - page navigation,
 - filters
 
-##
+## Modelling
+Certainly! The data model displayed in the screenshot combines two tables: "ad_campaign_data" and "DateTable." A relationship links these tables. The model helps analyze advertising metrics, track performance over time, and optimize ad spending for FreshCart. 
+
+The “ad_campaign_data” table is the fact table and The “DateTable” is the dimension table.
