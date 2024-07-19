@@ -1,5 +1,6 @@
-# Ad Analysis
+# FreshCart Ad Analysis
 
+![Alt text](assets/images/Freshcartcv.jpg)
 ## Introduction
 
 This Power BI project aims to analyze advertising data for the fictional company “Fresh Cart.” By deriving insights from the data, we aim to answer crucial questions and provide actionable recommendations to help the store make informed decisions.
