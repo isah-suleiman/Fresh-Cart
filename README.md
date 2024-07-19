@@ -99,5 +99,62 @@ The Report Contains 3 pages.
 3. Campaign
 
 ![Alt text](assets/images/freshcartdash.jpg)
+---
+
 ![Alt text](assets/images/freshcartcamp.jpg)
+
+---
+
+## FreshCart's Effective Advertising Platform: YouTube vs. Twitter
+
+### Overview:
+FreshCart's advertising success hinges on choosing the right platform. Here's why YouTube stands out:
+
+1. **High Conversion Rate:**
+   - Both YouTube (6.41%) and Twitter (6.79%) surpass the e-commerce industry average (1-3%).
+   - FreshCart's audience is receptive to ads on both platforms.
+
+2. **Cost Efficiency:**
+   - YouTube's Cost Per Conversion ($2.72) is significantly lower than Twitter's ($14.21).
+   - YouTube effectively converts viewers into customers.
+
+3. **Impressive ROAS (Return on Ad Spend):**
+   - YouTube's ROAS: 1298.84% (Fresh Cart gets $12.99 for every ad dollar spent).
+   - Twitter's ROAS: 420.18%.
+   - YouTube delivers exceptional revenue relative to costs.
+
+4. **Efficiency Metrics:**
+   - YouTube outperforms Twitter in sales despite fewer campaigns (9 vs. 12) and shorter ad durations.
+
+### Conclusion:
+YouTube combines high conversion rates, impressive ROAS, and cost-effectiveness. It's the optimal choice for FreshCart's advertising strategy.
+
+---
 ![Alt text](assets/images/frescartplatform.jpg)
+---
+
+## Least Effective Advertising Platform: Google Ads
+
+### Overview:
+Google Ads, despite its widespread use, falls short in FreshCart's advertising strategy. Here's why:
+
+1. **Lowest Conversion Rate:**
+   - Google Ads has a meager conversion rate of 4.62%.
+   - This rate significantly lags behind other platforms.
+
+2. **Highest Cost Per Conversion (CPC):**
+   - Acquiring a customer through Google Ads costs $35.
+   - It's the most expensive platform in terms of conversion expenses.
+
+3. **Least ROAS (Return on Ad Spend):**
+   - Google Ads' ROAS, while positive, is considerably lower than other platforms.
+   - FreshCart receives less return for each ad dollar spent.
+
+4. **Revenue Comparison:**
+   - Google Ads generated sales revenue of $8.07K.
+   - While higher than Instagram, it falls significantly behind Twitter and Facebook.
+
+### Conclusion:
+Google Ads may need optimization or reconsideration to improve its effectiveness for FreshCart.
+
+---
