@@ -101,7 +101,7 @@ The Report Contains 3 pages.
 ![Alt text](assets/images/freshcartdash.jpg)
 ---
 
-![Alt text](assets/images/freshcartcamp.jpg)
+![Alt text](assets/images/freshcartcampp.jpg)
 
 ---
 
