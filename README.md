@@ -51,6 +51,53 @@ The following power BI features were incorporated
 - filters
 
 ## Modelling
+![Alt text](assets/images/freshcartdash.jpg)
 Certainly! The data model displayed in the screenshot combines two tables: "ad_campaign_data" and "DateTable." A relationship links these tables. The model helps analyze advertising metrics, track performance over time, and optimize ad spending for FreshCart. 
 
 The “ad_campaign_data” table is the fact table and The “DateTable” is the dimension table.
+
+## Dax Measures
+
+### 1. Conversion Rate
+- **Purpose:** Calculate the percentage of conversions relative to total clicks.
+- **DAX Expression:**
+  ```DAX
+  Conversion Rate = DIVIDE(SUM(ad_campaign_data[Conversions]), SUM(ad_campaign_data[Clicks]), 0)
+  ```
+- **Explanation:** This measure divides the total conversions by total clicks, handling cases where there are no clicks (denominator is zero).
+
+### 2. Cost Per Conversion
+- **Purpose:** Determine the cost associated with each conversion.
+- **DAX Expression:**
+  ```DAX
+  Cost Per Conversion = DIVIDE(SUM(ad_campaign_data[Cost]), SUM(ad_campaign_data[Conversions]), 0)
+  ```
+- **Explanation:** This measure calculates the average cost per conversion.
+
+### 3. CTR (Click-Through Rate)
+- **Purpose:** Measure the effectiveness of ads.
+- **DAX Expression:**
+  ```DAX
+  CTR = DIVIDE(SUM(ad_campaign_data[Clicks]), SUM(ad_campaign_data[Impressions]), 0)
+  ```
+- **Explanation:** CTR calculates the ratio of clicks to impressions.
+
+### 4. ROAS (Return on Ad Spend)
+- **Purpose:** Evaluate revenue generated relative to advertising costs.
+- **DAX Expression:**
+  ```DAX
+  ROAS = DIVIDE(SUM(ad_campaign_data[ConversionValue]), SUM(ad_campaign_data[Cost]), 0)
+  ```
+- **Explanation:** ROAS quantifies how efficiently ad spending translates into revenue.
+
+---
+## Visualization
+
+The Report Contains 3 pages.
+1. Home
+2. Analysis
+3. Campaign
+
+![Alt text](assets/images/freshcartdash.jpg)
+![Alt text](assets/images/freshcartcamp.jpg)
+![Alt text](assets/images/frescartplatform.jpg)
